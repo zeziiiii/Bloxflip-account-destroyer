@@ -1,6 +1,5 @@
 import requests
 
-# Prompting the user to enter the auth token
 auth_token = input("Please enter your auth token: ")
 
 headers = {
